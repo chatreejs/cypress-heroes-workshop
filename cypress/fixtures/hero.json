@@ -1,0 +1,9 @@
+{
+    "name": "ironman",
+    "price": 100,
+    "powers": [
+        "Flying",
+        "Fireball"
+    ],
+    "image": "ironman.png"
+}
